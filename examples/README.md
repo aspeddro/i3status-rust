@@ -22,7 +22,7 @@ Feel free to add to the list below by sending a PR. Additional scripts can be ad
 - [System (Suspend/Shutdown/Reboot)](#system-suspendshutdownreboot)
 - [User](#user)
 - [XKCD](#xkcd)
-- [Spotify TUI](#spt)
+- [Spotify TUI](#spotify-tui)
 
 ### Hostname
 
